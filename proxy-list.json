@@ -1,1 +1,33 @@
+[
+  {"host": "152.53.170.41", "anonymityLevel": "elite", "asn": "AS28186", "country": "AU", "isp": "ITS TELECOMUNICACOES LTDA", "latency": 199, "org": "ITS TELECOMUNICACOES LTDA", "port": 57203, "protocol": "socks5", "username": "", "password": "", "upTimeSuccessCount": 147, "upTimeTryCount": 147, "updated_at": "2025-06-26T09:50:07.540Z", "responseTime": 4506},
+  {"host": "152.53.170.41", "anonymityLevel": "elite", "asn": "AS28186", "country": "AU", "isp": "ITS TELECOMUNICACOES LTDA", "latency": 199, "org": "ITS TELECOMUNICACOES LTDA", "port": 57203, "protocol": "socks5", "username": "", "password": "", "upTimeSuccessCount": 147, "upTimeTryCount": 147, "updated_at": "2025-06-26T09:50:07.540Z", "responseTime": 4506},
+  { "host": "152.53.194.55", "port": 53725, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 35384, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 24253, "protocol": "socks5" },
+  { "host": "152.53.170.41", "port": 54187 , "protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 20457, "protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 7020, "protocol": "socks5" },
+  { "host": "209.38.83.56", "port": 1088 , "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 54880 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 34007, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 16545,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 9490 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 60449 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 12897 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 25211 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 54135 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 51926 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 47279 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 43002 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 60605 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 11477 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 8637 ,"protocol": "socks5"},
+  { "host": "152.53.168.53", "port": 21745 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 32079 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 51817 ,"protocol": "socks5"},
+  { "host": "152.53.170.41", "port": 26129 ,"protocol": "socks5"}
+  
+
+  
+]
 
