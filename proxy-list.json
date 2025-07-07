@@ -31,7 +31,8 @@
   { "host": "152.53.170.41", "port": 43575, "protocol": "socks5" },
   { "host": "152.53.170.41", "port": 49255, "protocol": "socks5" },
   { "host": "152.53.171.242", "port": 63092, "protocol": "socks5" },
-  { "host": "152.53.170.41", "port": 59037, "protocol": "socks5" }
+  { "host": "152.53.170.41", "port": 59037, "protocol": "socks5" },
+  { "host": "185.137.122.146", "port": 9058, "protocol": "socks5" } 
 
 
 
