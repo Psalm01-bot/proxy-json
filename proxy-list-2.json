@@ -1,12 +1,10 @@
 [
-  { "host": "37.120.162.180", "port": 56404, "protocol": "socks5" },
-  { "host": "37.120.162.180", "port": 43036, "protocol": "socks5" },
-  { "host": "37.120.162.180", "port": 56404, "protocol": "socks5" },
-  { "host": "37.120.162.180", "port": 43036, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 58054, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 21553, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 51200, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 58054, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 21553, "protocol": "socks5" },
-  { "host": "152.53.171.242", "port": 51200, "protocol": "socks5" }
+  { "host": "152.53.168.53", "port": 40551, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 34340, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 37046, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 17633, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 23136, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 27598, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 53137, "protocol": "socks5" },
+  { "host": "152.53.168.53", "port": 45241, "protocol": "socks5" }
 ]
